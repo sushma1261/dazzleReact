@@ -1,0 +1,33 @@
+.about-para {
+	padding-left: 50%;
+	align-content: right;
+	font-size: 30px;
+	padding-top: 25%;
+}
+.about-head {
+	position: absolute;
+	padding-top: 25%;
+	padding-bottom: 10%;
+	padding-left: 20px;
+}
+.comp {
+	width: 450px;
+	padding: 5%;
+	display: inline-grid;
+}
+
+.test-main {
+	padding: 10%;
+}
+
+.test-para {
+	font-size: 20px;
+	font-family: 'Comic Sans MS';
+	letter-spacing: 1px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.image-1 {
+	width: 100%;
+}
